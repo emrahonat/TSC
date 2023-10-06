@@ -8,6 +8,9 @@ E. Onat and Ü. Üzdi̇l, "Traffic sign classification using hough transform and
 Abstract:
 In this paper, classification of traffic signs in Turkey with the help of their some features such as color and shape is explained. In the algorithm that is generated in MATLAB, firstly trafic signs are distinguished from the other objects of the image and then filtered by their colors. After filtering, edge detection is processed and then Hough Transform and SVM are used for shape classification.
 
+Keywords:
+Traffic Sign Classification, Hough Transform, Support Vector Machine, SVM, Edge Detection, Corner Detection, Circle Detection
+
 DOI: 10.1109/SIU.2015.7130301
 
 References:
